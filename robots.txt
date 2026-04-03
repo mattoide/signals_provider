@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://signals-provider.pages.dev/sitemap.xml
+Sitemap: https://signalsprovider.666matto666.workers.dev/sitemap.xml
